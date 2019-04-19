@@ -1,4 +1,11 @@
 # Unity-Logs-Viewer
+集成了这个工具后，在屏幕上画一个圈（鼠标或触摸都支持），就可以调出日志窗口。
+
+### 使用方式
+1. 将全部代码放入Unity工程中
+2. 在你项目的第一个场景中，点击菜单栏(Reporter->Create)即可。
+
+# Unity-Logs-Viewer
 
 
 Please note with new unity you can view device logs on editor console window, check the new attach menu in editor console window.
